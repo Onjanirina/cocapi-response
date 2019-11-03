@@ -1,0 +1,464 @@
+{
+   "tag":"#Y2LPG9Y0Q",
+   "name":"PrincesseSophia",
+   "townHallLevel":5,
+   "expLevel":28,
+   "trophies":713,
+   "bestTrophies":726,
+   "warStars":26,
+   "attackWins":6,
+   "defenseWins":2,
+   "builderHallLevel":3,
+   "versusTrophies":702,
+   "bestVersusTrophies":702,
+   "versusBattleWins":29,
+   "role":"leader",
+   "donations":0,
+   "donationsReceived":0,
+   "clan":{
+      "tag":"#28YLYLLC9",
+      "name":"ClanDeLaCrique",
+      "clanLevel":1,
+      "badgeUrls":{
+         "small":"https://api-assets.clashofclans.com/badges/70/A_fIGI9v3UTQEYabRMCz5ziyS4S1uANI6qEwNHbJ96M.png",
+         "large":"https://api-assets.clashofclans.com/badges/512/A_fIGI9v3UTQEYabRMCz5ziyS4S1uANI6qEwNHbJ96M.png",
+         "medium":"https://api-assets.clashofclans.com/badges/200/A_fIGI9v3UTQEYabRMCz5ziyS4S1uANI6qEwNHbJ96M.png"
+      }
+   },
+   "league":{
+      "id":29000003,
+      "name":"Bronze League I",
+      "iconUrls":{
+         "small":"https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+         "tiny":"https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+         "medium":"https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
+      }
+   },
+   "achievements":[
+      {
+         "name":"Bigger Coffers",
+         "stars":2,
+         "value":9,
+         "target":10,
+         "info":"Upgrade a Gold Storage to level 10",
+         "completionInfo":"Highest Gold Storage level: 9",
+         "village":"home"
+      },
+      {
+         "name":"Get those other Goblins!",
+         "stars":1,
+         "value":20,
+         "target":200,
+         "info":"Win 200 Stars on the Campaign Map",
+         "completionInfo":"Stars in Campaign Map: 20",
+         "village":"home"
+      },
+      {
+         "name":"Bigger & Better",
+         "stars":2,
+         "value":5,
+         "target":8,
+         "info":"Upgrade Town Hall to level 8",
+         "completionInfo":"Current Town Hall level: 5",
+         "village":"home"
+      },
+      {
+         "name":"Nice and Tidy",
+         "stars":2,
+         "value":102,
+         "target":500,
+         "info":"Remove 500 obstacles (trees, rocks, bushes)",
+         "completionInfo":"Total obstacles removed: 102",
+         "village":"home"
+      },
+      {
+         "name":"Release the Beasts",
+         "stars":2,
+         "value":1,
+         "target":1,
+         "info":"Unlock Wall Breaker in the Barracks",
+         "village":"home"
+      },
+      {
+         "name":"Gold Grab",
+         "stars":1,
+         "value":530453,
+         "target":1000000,
+         "info":"Steal 1000000 gold",
+         "completionInfo":"Total Gold looted: 530453",
+         "village":"home"
+      },
+      {
+         "name":"Elixir Escapade",
+         "stars":1,
+         "value":485379,
+         "target":1000000,
+         "info":"Steal 1000000 elixir",
+         "completionInfo":"Total Elixir looted: 485379",
+         "village":"home"
+      },
+      {
+         "name":"Sweet Victory!",
+         "stars":1,
+         "value":726,
+         "target":750,
+         "info":"Achieve a total of 750 trophies in Multiplayer battles",
+         "completionInfo":"Trophy record: 726",
+         "village":"home"
+      },
+      {
+         "name":"Empire Builder",
+         "stars":2,
+         "value":2,
+         "target":4,
+         "info":"Upgrade Clan Castle to level 4",
+         "completionInfo":"Current Clan Castle level: 2",
+         "village":"home"
+      },
+      {
+         "name":"Wall Buster",
+         "stars":2,
+         "value":123,
+         "target":2000,
+         "info":"Destroy 2000 Walls in Multiplayer battles",
+         "completionInfo":"Total walls destroyed: 123",
+         "village":"home"
+      },
+      {
+         "name":"Humiliator",
+         "stars":1,
+         "value":30,
+         "target":100,
+         "info":"Destroy 100 Town Halls in Multiplayer battles",
+         "completionInfo":"Total Town Halls destroyed: 30",
+         "village":"home"
+      },
+      {
+         "name":"Union Buster",
+         "stars":1,
+         "value":70,
+         "target":250,
+         "info":"Destroy 250 Builder's Huts in Multiplayer battles",
+         "completionInfo":"Total Builder's Huts destroyed: 70",
+         "village":"home"
+      },
+      {
+         "name":"Conqueror",
+         "stars":1,
+         "value":33,
+         "target":250,
+         "info":"Win 250 Multiplayer battles",
+         "completionInfo":"Total multiplayer battles won: 33",
+         "village":"home"
+      },
+      {
+         "name":"Unbreakable",
+         "stars":1,
+         "value":25,
+         "target":250,
+         "info":"Successfully defend against 250 attacks",
+         "completionInfo":"Total defenses won: 25",
+         "village":"home"
+      },
+      {
+         "name":"Friend in Need",
+         "stars":0,
+         "value":60,
+         "target":100,
+         "info":"Donate 100 Clan Castle capacity worth of reinforcements",
+         "completionInfo":"Total capacity donated: 60",
+         "village":"home"
+      },
+      {
+         "name":"Mortar Mauler",
+         "stars":1,
+         "value":31,
+         "target":500,
+         "info":"Destroy 500 Mortars in Multiplayer battles",
+         "completionInfo":"Total Mortars destroyed: 31",
+         "village":"home"
+      },
+      {
+         "name":"Heroic Heist",
+         "stars":0,
+         "value":0,
+         "target":20000,
+         "info":"Steal 20000 Dark Elixir",
+         "completionInfo":"Total Dark Elixir looted: 0",
+         "village":"home"
+      },
+      {
+         "name":"League All-Star",
+         "stars":0,
+         "value":3,
+         "target":1,
+         "info":"Join the Crystal League",
+         "village":"home"
+      },
+      {
+         "name":"X-Bow Exterminator",
+         "stars":0,
+         "value":0,
+         "target":1,
+         "info":"Destroy one X-Bow in a Multiplayer battle",
+         "completionInfo":"Total X-Bows destroyed: 0",
+         "village":"home"
+      },
+      {
+         "name":"Firefighter",
+         "stars":0,
+         "value":0,
+         "target":10,
+         "info":"Destroy 10 Inferno Towers in Multiplayer battles",
+         "completionInfo":"Total Inferno Towers destroyed: 0",
+         "village":"home"
+      },
+      {
+         "name":"War Hero",
+         "stars":1,
+         "value":26,
+         "target":150,
+         "info":"Score 150 Stars for your clan in Clan War battles",
+         "completionInfo":"Total Stars scored for clan in Clan War battles: 26",
+         "village":"home"
+      },
+      {
+         "name":"Treasurer",
+         "stars":1,
+         "value":1469563,
+         "target":15000000,
+         "info":"Collect 15000000 gold from the Treasury",
+         "completionInfo":"Total gold collected in Clan War bonuses: 1469563",
+         "village":"home"
+      },
+      {
+         "name":"Anti-Artillery",
+         "stars":0,
+         "value":0,
+         "target":20,
+         "info":"Destroy 20 Eagle Artilleries in Multiplayer battles",
+         "completionInfo":"Total Eagle Artilleries destroyed: 0",
+         "village":"home"
+      },
+      {
+         "name":"Sharing is caring",
+         "stars":0,
+         "value":0,
+         "target":100,
+         "info":"Donate 100 spell storage capacity worth of spells",
+         "completionInfo":"Total spell capacity donated: 0",
+         "village":"home"
+      },
+      {
+         "name":"Keep your village safe",
+         "stars":0,
+         "value":0,
+         "target":1,
+         "info":"Connect your account to a social network for safe keeping.",
+         "completionInfo":"Completed!",
+         "village":"home"
+      },
+      {
+         "name":"Master Engineering",
+         "stars":1,
+         "value":3,
+         "target":5,
+         "info":"Upgrade Builder Hall to level 5",
+         "completionInfo":"Current Builder Hall level: 3",
+         "village":"builderBase"
+      },
+      {
+         "name":"Next Generation Model",
+         "stars":1,
+         "value":1,
+         "target":1,
+         "info":"Unlock Sneaky Archer in the Builder Barracks",
+         "village":"builderBase"
+      },
+      {
+         "name":"Un-Build It",
+         "stars":1,
+         "value":41,
+         "target":100,
+         "info":"Destroy 100 Builder Halls in Versus battles",
+         "completionInfo":"Total Builder Halls destroyed: 41",
+         "village":"builderBase"
+      },
+      {
+         "name":"Champion Builder",
+         "stars":1,
+         "value":702,
+         "target":1000,
+         "info":"Achieve a total of 1000 trophies in Versus battles",
+         "completionInfo":"Versus Trophy record: 702",
+         "village":"builderBase"
+      },
+      {
+         "name":"High Gear",
+         "stars":0,
+         "value":0,
+         "target":1,
+         "info":"Gear Up one building using the Master Builder",
+         "completionInfo":"Total buildings geared up: 0",
+         "village":"builderBase"
+      },
+      {
+         "name":"Hidden Treasures",
+         "stars":1,
+         "value":1,
+         "target":1,
+         "info":"Rebuild Gem Mine",
+         "village":"builderBase"
+      },
+      {
+         "name":"Games Champion",
+         "stars":0,
+         "value":0,
+         "target":10000,
+         "info":"Earn 10000 points in Clan Games",
+         "completionInfo":"Total Clan Games points: 0",
+         "village":"home"
+      },
+      {
+         "name":"Dragon Slayer",
+         "stars":0,
+         "value":0,
+         "target":1,
+         "info":"Slay the Giant Dragon",
+         "village":"home"
+      },
+      {
+         "name":"War League Legend",
+         "stars":0,
+         "value":0,
+         "target":20,
+         "info":"Score 20 Stars for your clan in War League battles",
+         "completionInfo":"Total Stars scored for clan in War League battles: 0",
+         "village":"home"
+      },
+      {
+         "name":"Keep your village safe",
+         "stars":0,
+         "value":0,
+         "target":1,
+         "info":"Connect your account to Supercell ID for safe keeping.",
+         "completionInfo":"Completed!",
+         "village":"home"
+      },
+      {
+         "name":"Well Seasoned",
+         "stars":0,
+         "value":0,
+         "target":5000,
+         "info":"Earn 5000 points in Season Challenges",
+         "completionInfo":"Total Season Challenges points: 0",
+         "village":"home"
+      }
+   ],
+   "versusBattleWinCount":29,
+   "labels":[
+      {
+         "id":57000000,
+         "name":"Clan Wars",
+         "iconUrls":{
+            "small":"https://api-assets.clashofclans.com/labels/64/ZxJp9606Vl1sa0GHg5JmGp8TdHS4l0jE4WFuil1ENvA.png",
+            "medium":"https://api-assets.clashofclans.com/labels/128/ZxJp9606Vl1sa0GHg5JmGp8TdHS4l0jE4WFuil1ENvA.png"
+         }
+      },
+      {
+         "id":57000001,
+         "name":"Clan War League",
+         "iconUrls":{
+            "small":"https://api-assets.clashofclans.com/labels/64/JOzAO4r91eVaJELAPB-iuAx6f_zBbRPCLM_ag5mpK4s.png",
+            "medium":"https://api-assets.clashofclans.com/labels/128/JOzAO4r91eVaJELAPB-iuAx6f_zBbRPCLM_ag5mpK4s.png"
+         }
+      },
+      {
+         "id":57000004,
+         "name":"Clan Games",
+         "iconUrls":{
+            "small":"https://api-assets.clashofclans.com/labels/64/LIXkluJJeg4ATNVQgO6scLheXxmNpyBLRYGldtv-Miw.png",
+            "medium":"https://api-assets.clashofclans.com/labels/128/LIXkluJJeg4ATNVQgO6scLheXxmNpyBLRYGldtv-Miw.png"
+         }
+      }
+   ],
+   "troops":[
+      {
+         "name":"Barbarian",
+         "level":3,
+         "maxLevel":8,
+         "village":"home"
+      },
+      {
+         "name":"Archer",
+         "level":3,
+         "maxLevel":8,
+         "village":"home"
+      },
+      {
+         "name":"Goblin",
+         "level":3,
+         "maxLevel":7,
+         "village":"home"
+      },
+      {
+         "name":"Giant",
+         "level":2,
+         "maxLevel":9,
+         "village":"home"
+      },
+      {
+         "name":"Wall Breaker",
+         "level":2,
+         "maxLevel":8,
+         "village":"home"
+      },
+      {
+         "name":"Balloon",
+         "level":2,
+         "maxLevel":8,
+         "village":"home"
+      },
+      {
+         "name":"Wizard",
+         "level":2,
+         "maxLevel":9,
+         "village":"home"
+      },
+      {
+         "name":"Raged Barbarian",
+         "level":6,
+         "maxLevel":18,
+         "village":"builderBase"
+      },
+      {
+         "name":"Sneaky Archer",
+         "level":6,
+         "maxLevel":18,
+         "village":"builderBase"
+      },
+      {
+         "name":"Beta Minion",
+         "level":4,
+         "maxLevel":18,
+         "village":"builderBase"
+      },
+      {
+         "name":"Boxer Giant",
+         "level":4,
+         "maxLevel":18,
+         "village":"builderBase"
+      }
+   ],
+   "heroes":[
+
+   ],
+   "spells":[
+      {
+         "name":"Lightning Spell",
+         "level":1,
+         "maxLevel":7,
+         "village":"home"
+      }
+   ]
+}
