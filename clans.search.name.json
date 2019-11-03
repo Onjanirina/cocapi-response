@@ -1,0 +1,61 @@
+{
+   "items":[
+      {
+         "tag":"#28YLYLLC9",
+         "name":"ClanDeLaCrique",
+         "type":"open",
+         "location":{
+            "id":32000006,
+            "name":"International",
+            "isCountry":false
+         },
+         "badgeUrls":{
+            "small":"https://api-assets.clashofclans.com/badges/70/A_fIGI9v3UTQEYabRMCz5ziyS4S1uANI6qEwNHbJ96M.png",
+            "large":"https://api-assets.clashofclans.com/badges/512/A_fIGI9v3UTQEYabRMCz5ziyS4S1uANI6qEwNHbJ96M.png",
+            "medium":"https://api-assets.clashofclans.com/badges/200/A_fIGI9v3UTQEYabRMCz5ziyS4S1uANI6qEwNHbJ96M.png"
+         },
+         "clanLevel":1,
+         "clanPoints":1109,
+         "clanVersusPoints":761,
+         "requiredTrophies":0,
+         "warFrequency":"always",
+         "warWinStreak":0,
+         "warWins":4,
+         "warTies":1,
+         "warLosses":3,
+         "isWarLogPublic":true,
+         "members":5,
+         "labels":[
+            {
+               "id":56000000,
+               "name":"Clan Wars",
+               "iconUrls":{
+                  "small":"https://api-assets.clashofclans.com/labels/64/lXaIuoTlfoNOY5fKcQGeT57apz1KFWkN9-raxqIlMbE.png",
+                  "medium":"https://api-assets.clashofclans.com/labels/128/lXaIuoTlfoNOY5fKcQGeT57apz1KFWkN9-raxqIlMbE.png"
+               }
+            },
+            {
+               "id":56000001,
+               "name":"Clan War League",
+               "iconUrls":{
+                  "small":"https://api-assets.clashofclans.com/labels/64/5w60_3bdtYUe9SM6rkxBRyV_8VvWw_jTlDS5ieU3IsI.png",
+                  "medium":"https://api-assets.clashofclans.com/labels/128/5w60_3bdtYUe9SM6rkxBRyV_8VvWw_jTlDS5ieU3IsI.png"
+               }
+            },
+            {
+               "id":56000004,
+               "name":"Clan Games",
+               "iconUrls":{
+                  "small":"https://api-assets.clashofclans.com/labels/64/7qU7tQGERiVITVG0CPFov1-BnFldu4bMN2gXML5bLIU.png",
+                  "medium":"https://api-assets.clashofclans.com/labels/128/7qU7tQGERiVITVG0CPFov1-BnFldu4bMN2gXML5bLIU.png"
+               }
+            }
+         ]
+      }
+   ],
+   "paging":{
+      "cursors":{
+
+      }
+   }
+}
