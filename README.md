@@ -10,3 +10,5 @@ ClashOfClans API - Response data (Json)
 * Global/Ranking/Clans - [https://api.clashofclans.com/v1/locations/global/ranking/clans?limit=10](https://github.com/Onjanirina/cocapi-response/blob/master/global-ranking-players.json)
 * Global/Ranking/Players - [https://api.clashofclans.com/v1/locations/global/ranking/players?limit=10](https://github.com/Onjanirina/cocapi-response/blob/master/global-ranking-players.json)
 * Leagues - [https://api.clashofclans.com/v1/leagues](https://github.com/Onjanirina/cocapi-response/blob/master/leagues.json)
+* League - [https://api.clashofclans.com/v1/leagues/{leagueId}](https://github.com/Onjanirina/cocapi-response/blob/master/league.json)
+
