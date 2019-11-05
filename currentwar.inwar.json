@@ -1,0 +1,627 @@
+{
+  "state": "inWar",
+  "teamSize": 40,
+  "preparationStartTime": "20191104T124552.000Z",
+  "startTime": "20191105T114552.000Z",
+  "endTime": "20191106T114552.000Z",
+  "clan": {
+    "tag": "#29GY289G8",
+    "name": "Team_Yaourt",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/1BJRCBPJfh6QRtfBzqkO70ivbrAcq0CmB1X39BTzEjg.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/1BJRCBPJfh6QRtfBzqkO70ivbrAcq0CmB1X39BTzEjg.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/1BJRCBPJfh6QRtfBzqkO70ivbrAcq0CmB1X39BTzEjg.png"
+    },
+    "clanLevel": 4,
+    "attacks": 2,
+    "stars": 3,
+    "destructionPercentage": 3.325,
+    "members": [
+      {
+        "tag": "#CQ8P8RG9",
+        "name": "PapyDrinky II",
+        "townhallLevel": 9,
+        "mapPosition": 18,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YPQPVPP0Q",
+        "name": "aubailly",
+        "townhallLevel": 9,
+        "mapPosition": 29,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#JPP9UCYQ",
+        "name": "GENERAL psg",
+        "townhallLevel": 9,
+        "mapPosition": 17,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#CCJV0YQ9",
+        "name": "Djihel",
+        "townhallLevel": 11,
+        "mapPosition": 10,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2LJQQVGRP",
+        "name": "pouleto",
+        "townhallLevel": 9,
+        "mapPosition": 23,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#90PGY9RUJ",
+        "name": "mn",
+        "townhallLevel": 10,
+        "mapPosition": 16,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9C9PPQY9G",
+        "name": "lulu",
+        "townhallLevel": 8,
+        "mapPosition": 37,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#VJLCU2VY",
+        "name": "Amoniakk",
+        "townhallLevel": 10,
+        "mapPosition": 7,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2JL92V802",
+        "name": "mignon",
+        "townhallLevel": 8,
+        "mapPosition": 34,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L9PJJVCGJ",
+        "name": "UltraBrioche",
+        "townhallLevel": 8,
+        "mapPosition": 39,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LP2RPCQGU",
+        "name": "Mastic",
+        "townhallLevel": 10,
+        "mapPosition": 13,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2L09PJYPY",
+        "name": "rafael",
+        "townhallLevel": 9,
+        "mapPosition": 22,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L9QGPLU8Q",
+        "name": "Cyrillion",
+        "townhallLevel": 7,
+        "mapPosition": 38,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9L9R08CUP",
+        "name": "mergèze du 28",
+        "townhallLevel": 10,
+        "mapPosition": 8,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RYQVG0VP",
+        "name": "hiwalache",
+        "townhallLevel": 12,
+        "mapPosition": 1,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9UJGLUQYR",
+        "name": "ilyes",
+        "townhallLevel": 9,
+        "mapPosition": 25,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PGUG0VUCJ",
+        "name": "SON GOKU",
+        "townhallLevel": 9,
+        "mapPosition": 26,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PY9PY9V02",
+        "name": "A+SousLeBus",
+        "townhallLevel": 8,
+        "mapPosition": 31,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8UQP29PCV",
+        "name": "killerman",
+        "townhallLevel": 8,
+        "mapPosition": 32,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2020RGL0G",
+        "name": "one shot861",
+        "townhallLevel": 10,
+        "mapPosition": 15,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9GR0L9P0",
+        "name": "ZxnathanxZ15",
+        "townhallLevel": 9,
+        "mapPosition": 19,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8J20V0V9L",
+        "name": "**$LAURY**$",
+        "townhallLevel": 10,
+        "mapPosition": 11,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#CQR29CG2",
+        "name": "flash X",
+        "townhallLevel": 9,
+        "mapPosition": 24,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9J2LGPJUR",
+        "name": "Bigrinello",
+        "townhallLevel": 12,
+        "mapPosition": 2,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YRLV8GY8V",
+        "name": "Onjanirina",
+        "townhallLevel": 10,
+        "mapPosition": 9,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8L90LJ8U",
+        "name": "Axedark",
+        "townhallLevel": 10,
+        "mapPosition": 6,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2P09JQ29J",
+        "name": "alex",
+        "townhallLevel": 8,
+        "mapPosition": 35,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P89CQQGY9",
+        "name": "Agoh",
+        "townhallLevel": 10,
+        "mapPosition": 14,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LLYPLRQYQ",
+        "name": "alik",
+        "townhallLevel": 12,
+        "mapPosition": 5,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LYYJLJ8U9",
+        "name": "ismaildamar",
+        "townhallLevel": 9,
+        "mapPosition": 20,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P229VR9YU",
+        "name": "baptiste",
+        "townhallLevel": 8,
+        "mapPosition": 30,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LGL9LJ0JJ",
+        "name": "IDKH",
+        "townhallLevel": 5,
+        "mapPosition": 40,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RY2PY9RR",
+        "name": "P.E.K.K.A.man",
+        "townhallLevel": 12,
+        "mapPosition": 4,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2RL28Q8VV",
+        "name": "Luffy",
+        "townhallLevel": 9,
+        "mapPosition": 21,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#88JRY0VUG",
+        "name": "loup enragé",
+        "townhallLevel": 8,
+        "mapPosition": 36,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YQLLG9PLG",
+        "name": "王者荣耀",
+        "townhallLevel": 9,
+        "mapPosition": 27,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y9JRYQJGY",
+        "name": "bribri131",
+        "townhallLevel": 12,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#Y9JRYQJGY",
+            "defenderTag": "#2JRCYRQP0",
+            "stars": 2,
+            "destructionPercentage": 63,
+            "order": 1
+          },
+          {
+            "attackerTag": "#Y9JRYQJGY",
+            "defenderTag": "#VU8VVPJQ",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 2
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LP2PGPG2Q",
+        "name": "the onr",
+        "townhallLevel": 9,
+        "mapPosition": 33,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#VCVLJYL9",
+        "name": "antitrol",
+        "townhallLevel": 10,
+        "mapPosition": 28,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P2QJGP8GY",
+        "name": "capitaine clash",
+        "townhallLevel": 10,
+        "mapPosition": 12,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#28R9QPP0Y",
+    "name": "Executores",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/gEsehsswwyDXPdPs68jt2s2JrV-zCOJ_ooRlPS5bxbE.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/gEsehsswwyDXPdPs68jt2s2JrV-zCOJ_ooRlPS5bxbE.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/gEsehsswwyDXPdPs68jt2s2JrV-zCOJ_ooRlPS5bxbE.png"
+    },
+    "clanLevel": 5,
+    "attacks": 0,
+    "stars": 0,
+    "destructionPercentage": 0,
+    "members": [
+      {
+        "tag": "#YVJ2P9PU",
+        "name": "musicboxrj",
+        "townhallLevel": 12,
+        "mapPosition": 1,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8QU2R0LGU",
+        "name": "K1llerD0m",
+        "townhallLevel": 9,
+        "mapPosition": 16,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PQ0V8P08V",
+        "name": "Maria Fifi",
+        "townhallLevel": 7,
+        "mapPosition": 37,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#VU8VVPJQ",
+        "name": "TANGAA",
+        "townhallLevel": 10,
+        "mapPosition": 12,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y9JRYQJGY",
+          "defenderTag": "#VU8VVPJQ",
+          "stars": 1,
+          "destructionPercentage": 70,
+          "order": 2
+        }
+      },
+      {
+        "tag": "#9CRGGQCL9",
+        "name": "Tulio",
+        "townhallLevel": 8,
+        "mapPosition": 36,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#90QJ9Y200",
+        "name": "tioorochi 2.0",
+        "townhallLevel": 8,
+        "mapPosition": 32,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QGQJ80LV",
+        "name": "Zilvam Júnior",
+        "townhallLevel": 10,
+        "mapPosition": 8,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YYP82890G",
+        "name": "hp",
+        "townhallLevel": 9,
+        "mapPosition": 25,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PLQJQ22U8",
+        "name": "《$RAMON $》",
+        "townhallLevel": 8,
+        "mapPosition": 29,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8QJQJCC0P",
+        "name": "Crislinda",
+        "townhallLevel": 9,
+        "mapPosition": 15,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#VQQPU9J2",
+        "name": "Pedro $$",
+        "townhallLevel": 9,
+        "mapPosition": 27,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9JRQQU0U8",
+        "name": "gabriel 213",
+        "townhallLevel": 8,
+        "mapPosition": 26,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L8GJPL20Q",
+        "name": "Bryan",
+        "townhallLevel": 5,
+        "mapPosition": 40,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8PULGUQLV",
+        "name": "✌THEUS✌",
+        "townhallLevel": 9,
+        "mapPosition": 13,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#82VGQ8GY",
+        "name": "MarcãoPescador",
+        "townhallLevel": 12,
+        "mapPosition": 6,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#29U9R20VJ",
+        "name": "fran tezzon",
+        "townhallLevel": 9,
+        "mapPosition": 22,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2C00V8PLQ",
+        "name": "Calaxander",
+        "townhallLevel": 10,
+        "mapPosition": 9,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8YGU08GC8",
+        "name": "ronald",
+        "townhallLevel": 9,
+        "mapPosition": 21,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LP9RP0YGR",
+        "name": "SUPREMO",
+        "townhallLevel": 7,
+        "mapPosition": 39,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y89PLUJY2",
+        "name": "Dalri",
+        "townhallLevel": 9,
+        "mapPosition": 20,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2RUL8GPR8",
+        "name": "Arthud",
+        "townhallLevel": 9,
+        "mapPosition": 23,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8YQVCL9PU",
+        "name": "jvclash",
+        "townhallLevel": 8,
+        "mapPosition": 31,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PR0RUYYCU",
+        "name": "Shaw",
+        "townhallLevel": 12,
+        "mapPosition": 3,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PC2JV22QQ",
+        "name": "FELIPE",
+        "townhallLevel": 11,
+        "mapPosition": 7,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YV98R8JJ2",
+        "name": "CHAVES",
+        "townhallLevel": 8,
+        "mapPosition": 30,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#99GY80G2G",
+        "name": "Nutela2acount",
+        "townhallLevel": 8,
+        "mapPosition": 33,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#GGJC9UG8",
+        "name": "M@R©0$",
+        "townhallLevel": 9,
+        "mapPosition": 17,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YQUQRLJ2P",
+        "name": "Marlon ✌",
+        "townhallLevel": 9,
+        "mapPosition": 24,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LLQPJQU8Q",
+        "name": "Nana of Clash",
+        "townhallLevel": 8,
+        "mapPosition": 28,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2JRCYRQP0",
+        "name": "Daniel Sena",
+        "townhallLevel": 10,
+        "mapPosition": 18,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y9JRYQJGY",
+          "defenderTag": "#2JRCYRQP0",
+          "stars": 2,
+          "destructionPercentage": 63,
+          "order": 1
+        }
+      },
+      {
+        "tag": "#88JY2GPGU",
+        "name": "ALEX EVIL#1",
+        "townhallLevel": 9,
+        "mapPosition": 35,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PRJY2R0L0",
+        "name": "melleka",
+        "townhallLevel": 12,
+        "mapPosition": 4,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9G28QJ9YU",
+        "name": "marcos alvito",
+        "townhallLevel": 9,
+        "mapPosition": 19,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2G8Q20UQ0",
+        "name": "WITER_Z",
+        "townhallLevel": 7,
+        "mapPosition": 38,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8L2LGJ8RV",
+        "name": "kaique",
+        "townhallLevel": 12,
+        "mapPosition": 5,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9CJPGCGP9",
+        "name": "_bbesta_",
+        "townhallLevel": 10,
+        "mapPosition": 11,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YPU2C8U2L",
+        "name": "xpimbadorx",
+        "townhallLevel": 9,
+        "mapPosition": 14,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YYVCGJ0PP",
+        "name": "FELIPE FREITAS",
+        "townhallLevel": 12,
+        "mapPosition": 2,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#98JJQG8LL",
+        "name": "mateus❤_❤",
+        "townhallLevel": 8,
+        "mapPosition": 34,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9VVUVQU28",
+        "name": "Game_Over",
+        "townhallLevel": 10,
+        "mapPosition": 10,
+        "opponentAttacks": 0
+      }
+    ]
+  }
+}
