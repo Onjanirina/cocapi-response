@@ -1,0 +1,538 @@
+{
+  "state": "warEnded",
+  "teamSize": 29,
+  "preparationStartTime": "20191104T121113.000Z",
+  "startTime": "20191105T121107.000Z",
+  "endTime": "20191106T121107.000Z",
+  "clan": {
+    "tag": "#JQ8R9QGP",
+    "name": "断电的电磁拉塔",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/ku41QahkxWUrFyh31OBSEq7h63Qbj3vm8c4l9pQg3_g.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/ku41QahkxWUrFyh31OBSEq7h63Qbj3vm8c4l9pQg3_g.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/ku41QahkxWUrFyh31OBSEq7h63Qbj3vm8c4l9pQg3_g.png"
+    },
+    "clanLevel": 8,
+    "attacks": 1,
+    "stars": 1,
+    "destructionPercentage": 2.0689655172413794,
+    "members": [
+      {
+        "tag": "#Y9C09U8QC",
+        "name": "犯我中华者诛之",
+        "townhallLevel": 9,
+        "mapPosition": 17,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P82J0CRL2",
+          "defenderTag": "#Y9C09U8QC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3
+        }
+      },
+      {
+        "tag": "#2R8V0Q9YU",
+        "name": "000",
+        "townhallLevel": 11,
+        "mapPosition": 2,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PGP908R2J",
+        "name": "人间仙境4",
+        "townhallLevel": 8,
+        "mapPosition": 27,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y202LRCQJ",
+        "name": "弥~补",
+        "townhallLevel": 9,
+        "mapPosition": 21,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L82YY888V",
+        "name": "小欢欢",
+        "townhallLevel": 9,
+        "mapPosition": 15,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCRCV0R2V",
+          "defenderTag": "#L82YY888V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5
+        }
+      },
+      {
+        "tag": "#9UJ9VL8YL",
+        "name": "爱与恨我无所谓",
+        "townhallLevel": 8,
+        "mapPosition": 24,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9VJGPG02G",
+        "name": "守护雯帝的丿稻草人",
+        "townhallLevel": 11,
+        "mapPosition": 3,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#80LU9L82C",
+        "name": "Super丶战",
+        "townhallLevel": 9,
+        "mapPosition": 14,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2QCRVY0VG",
+          "defenderTag": "#80LU9L82C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6
+        }
+      },
+      {
+        "tag": "#20R0G90PY",
+        "name": "守卫天使的丿稻草人",
+        "townhallLevel": 11,
+        "mapPosition": 5,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RG0JLL2G",
+          "defenderTag": "#20R0G90PY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11
+        }
+      },
+      {
+        "tag": "#L2CCPP2LV",
+        "name": "梁杰",
+        "townhallLevel": 11,
+        "mapPosition": 4,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PQ8Y8Y8RG",
+        "name": "人间地狱",
+        "townhallLevel": 10,
+        "mapPosition": 11,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRP8LLPLY",
+          "defenderTag": "#PQ8Y8Y8RG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7
+        }
+      },
+      {
+        "tag": "#8YGQJ99GP",
+        "name": "巅峰",
+        "townhallLevel": 10,
+        "mapPosition": 10,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8G20JYRUJ",
+          "defenderTag": "#8YGQJ99GP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9
+        }
+      },
+      {
+        "tag": "#L9Y9JCJC0",
+        "name": "王大爷",
+        "townhallLevel": 9,
+        "mapPosition": 23,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L2JUGGC02",
+        "name": "守卫剑阁的丿稻草人",
+        "townhallLevel": 9,
+        "mapPosition": 20,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L0PJCR2RY",
+        "name": "王小明",
+        "townhallLevel": 10,
+        "mapPosition": 13,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PCV8G299P",
+        "name": "惊涛训浪",
+        "townhallLevel": 8,
+        "mapPosition": 26,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y98RVY9CQ",
+        "name": "深渊",
+        "townhallLevel": 9,
+        "mapPosition": 25,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L0PLYCGC9",
+        "name": "结束",
+        "townhallLevel": 8,
+        "mapPosition": 28,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y0YRVG2VU",
+        "name": "我就是我强1",
+        "townhallLevel": 9,
+        "mapPosition": 16,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P982YJ8LV",
+        "name": "CS苏允",
+        "townhallLevel": 11,
+        "mapPosition": 8,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LQ8820YJ9",
+          "defenderTag": "#P982YJ8LV",
+          "stars": 1,
+          "destructionPercentage": 36,
+          "order": 1
+        }
+      },
+      {
+        "tag": "#PJR2C88RP",
+        "name": "1234",
+        "townhallLevel": 11,
+        "mapPosition": 6,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CCJLQQJ0",
+          "defenderTag": "#PJR2C88RP",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 10
+        }
+      },
+      {
+        "tag": "#80J9LG8RY",
+        "name": "浪呀善",
+        "townhallLevel": 10,
+        "mapPosition": 9,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8VRPQYJYY",
+          "defenderTag": "#80J9LG8RY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2
+        }
+      },
+      {
+        "tag": "#P8LJ00JQ9",
+        "name": "惊涛骇浪",
+        "townhallLevel": 11,
+        "mapPosition": 7,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2YCCLJ9C2",
+          "defenderTag": "#P8LJ00JQ9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8
+        }
+      },
+      {
+        "tag": "#L08R2QGUV",
+        "name": "孙悟空",
+        "townhallLevel": 6,
+        "mapPosition": 29,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PP0PPUCRG",
+        "name": "鹿晗1",
+        "townhallLevel": 9,
+        "mapPosition": 22,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PPGRVJ98J",
+        "name": "战无不胜",
+        "townhallLevel": 11,
+        "mapPosition": 12,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9PLGCVGUY",
+        "name": "戒八",
+        "townhallLevel": 9,
+        "mapPosition": 18,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9V8UCYJVP",
+          "defenderTag": "#9PLGCVGUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4
+        }
+      },
+      {
+        "tag": "#9PJ8V0YG9",
+        "name": "恆安",
+        "townhallLevel": 12,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9PJ8V0YG9",
+            "defenderTag": "#8RG0JLL2G",
+            "stars": 1,
+            "destructionPercentage": 60,
+            "order": 12
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YQCVU89PQ",
+        "name": "5897641",
+        "townhallLevel": 10,
+        "mapPosition": 19,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2CL8VVQY",
+    "name": "SM_FIGHTERS",
+    "badgeUrls": {
+      "small": "https://api-assets.clashofclans.com/badges/70/Wh55gdkBhngKnqF4D2ste-s_oOf2y8Av31exlgXBbac.png",
+      "large": "https://api-assets.clashofclans.com/badges/512/Wh55gdkBhngKnqF4D2ste-s_oOf2y8Av31exlgXBbac.png",
+      "medium": "https://api-assets.clashofclans.com/badges/200/Wh55gdkBhngKnqF4D2ste-s_oOf2y8Av31exlgXBbac.png"
+    },
+    "clanLevel": 13,
+    "attacks": 11,
+    "stars": 30,
+    "destructionPercentage": 34.48275862068966,
+    "members": [
+      {
+        "tag": "#JG229UVV",
+        "name": "Dreyco ||",
+        "townhallLevel": 8,
+        "mapPosition": 11,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8G20JYRUJ",
+        "name": "Dark Temptation",
+        "townhallLevel": 10,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8G20JYRUJ",
+            "defenderTag": "#8YGQJ99GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8UJ92UJCY",
+        "name": "RaVi_KeChEl",
+        "townhallLevel": 7,
+        "mapPosition": 13,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8RG0JLL2G",
+        "name": "botchog",
+        "townhallLevel": 12,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8RG0JLL2G",
+            "defenderTag": "#20R0G90PY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9PJ8V0YG9",
+          "defenderTag": "#8RG0JLL2G",
+          "stars": 1,
+          "destructionPercentage": 60,
+          "order": 12
+        }
+      },
+      {
+        "tag": "#P82J0CRL2",
+        "name": "dark2",
+        "townhallLevel": 9,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#P82J0CRL2",
+            "defenderTag": "#Y9C09U8QC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9P99UYPLG",
+        "name": "gohan",
+        "townhallLevel": 8,
+        "mapPosition": 12,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9V8UCYJVP",
+        "name": "maics",
+        "townhallLevel": 9,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9V8UCYJVP",
+            "defenderTag": "#9PLGCVGUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YCRCV0R2V",
+        "name": "pog's30",
+        "townhallLevel": 10,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YCRCV0R2V",
+            "defenderTag": "#L82YY888V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LQ8820YJ9",
+        "name": "darwin",
+        "townhallLevel": 7,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LQ8820YJ9",
+            "defenderTag": "#P982YJ8LV",
+            "stars": 1,
+            "destructionPercentage": 36,
+            "order": 1
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8VRPQYJYY",
+        "name": "@LIKE@",
+        "townhallLevel": 10,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8VRPQYJYY",
+            "defenderTag": "#80J9LG8RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2QCRVY0VG",
+        "name": "leinad's",
+        "townhallLevel": 10,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2QCRVY0VG",
+            "defenderTag": "#80LU9L82C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2CCJLQQJ0",
+        "name": "∆∆ pilot ∆∆",
+        "townhallLevel": 10,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2CCJLQQJ0",
+            "defenderTag": "#PJR2C88RP",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 10
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2YCCLJ9C2",
+        "name": "rayven",
+        "townhallLevel": 11,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2YCCLJ9C2",
+            "defenderTag": "#P8LJ00JQ9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8
+          }
+        ],
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2RY2RJQC8",
+        "name": "JediKnight",
+        "townhallLevel": 6,
+        "mapPosition": 15,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YRP8LLPLY",
+        "name": "botsog",
+        "townhallLevel": 11,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YRP8LLPLY",
+            "defenderTag": "#PQ8Y8Y8RG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7
+          }
+        ],
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "warStartTime": "20191105T121107.000Z"
+}
